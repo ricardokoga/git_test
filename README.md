@@ -1,0 +1,1 @@
+This is Ricardo Koga first git project!
